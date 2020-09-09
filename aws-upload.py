@@ -34,8 +34,8 @@ CASCADE_PASS = 'models/haarcascade_frontalface_alt.xml'
 
 #AWS関連設定情報
 REGION = 'us-east-1'
-ACCESS_KEY = 'AKIAJSCF5NR6AYIDS3GA'
-SECRET_KEY = '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'
+ACCESS_KEY = ''
+SECRET_KEY = ''
 IMG_NAME = 'photo.jpg'
 IMG_PASS = '/home/pi/workspace/yoloface-master/outputs/' + IMG_NAME
 BUCKET_NAME = 'egaz'
